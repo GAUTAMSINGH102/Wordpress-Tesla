@@ -1,0 +1,9 @@
+Steps For Connectivity Between Java Program and Database
+
+Import the database
+Load the drivers using the forName() method 
+Register the drivers using DriverManager 
+Establish a connection using the Connection class object
+Create a statement
+Execute the query
+CLose the connections
